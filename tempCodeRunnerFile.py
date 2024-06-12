@@ -1,2 +1,0 @@
-num.clear()
-# print(num)

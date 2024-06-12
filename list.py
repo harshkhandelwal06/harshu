@@ -72,5 +72,5 @@ def negative(l):
     negative=[]
     for i in l:
         negative.append(-i)
-        return negative
+    return negative
 print(negative(num))
