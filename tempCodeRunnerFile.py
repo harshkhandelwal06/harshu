@@ -1,0 +1,2 @@
+num.clear()
+# print(num)
