@@ -51,7 +51,7 @@
 # print("odd is", odd)
 # even.append(odd)
 # print(even)
-num=[[1,2,3,4],[1,2,6,5]]
+# num=[[1,2,3,4],[1,2,6,5]]
 # as=[]
 def same(a,b):
     num1=[]
@@ -60,4 +60,4 @@ def same(a,b):
             num1.append(i)
     return num1
 print(same([1,2,3,4],[1,2,6,5]))
-print(same(num))
+# print(same(num))
