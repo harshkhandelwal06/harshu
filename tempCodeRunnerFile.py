@@ -1,3 +1,2 @@
-
-# for pos,name in enumerate (name):
-#     print(f"{pos}-->{name}")
+def  square (a):
+#     return a**2
