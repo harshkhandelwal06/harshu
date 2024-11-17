@@ -1,0 +1,7 @@
+print("enter mad lib program :")
+noun=input("enter a noun: ")
+adjective=input("enter a Adjective: ")
+place=input("enter a place: ")
+num=int(input("enter a  number "))
+print("start a mad lib program\n")
+print(f"I am yesterday going to {place} where i saw {noun}  his height approximately {num} fit, that {noun} is very {adjective}...!")
